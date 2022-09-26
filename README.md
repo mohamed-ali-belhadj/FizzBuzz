@@ -10,7 +10,7 @@
 
 ## Requirements
 
-Fizz Buzz Application is build using **Swift v5.7** 
+Fizz Buzz Application is build using **Swift v5.5.2** 
 
 * Xcode v13.2 
 * Swift v5.5.2
