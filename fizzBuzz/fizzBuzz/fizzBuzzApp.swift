@@ -2,7 +2,7 @@
 //  fizzBuzzApp.swift
 //  fizzBuzz
 //
-//  Created by Zied Gmar on 26/09/2022.
+//  Created by Mohamed Ali BELHADJ on 23/09/2022.
 //
 
 import SwiftUI
